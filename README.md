@@ -1,0 +1,2 @@
+# EmbedJournal Jekyll Theme
+
